@@ -1,8 +1,8 @@
-# Payroll Web Application
+# Payroll Web Application 🌲
 
 - This project is a simple payroll web application that allows users to manage employee information, calculate payroll, and more.
 
-## Table of Contents
+## Table of Contents 📑
 
 - [Introduction](#introduction)
 - [Features](#features)
@@ -16,20 +16,20 @@
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## Introduction 💻
 
 -  The Payroll Web Application simplifies the process of managing employee payroll. It includes features such as adding and updating employee information, calculating payroll based on salary, allowances, and deductions, and an admin login system.
 
-## Features
+## Features 📔
 
 - Employee management: Add, update, and delete employee information.
 - Payroll calculation: Calculate payroll based on basic salary, allowances, and deductions.
 - User authentication: Differentiate between admin, employee, and manager roles.
 - Admin login system: Secure login system for administrators.
 
-## Getting Started
+## Getting Started 🔖
 
-### Prerequisites
+### Prerequisites 🧾
 
 Make sure you have the following installed:
 
@@ -37,7 +37,7 @@ Make sure you have the following installed:
 - npm (Node Package Manager)
 - SQLite
 
-### Installation
+### Installation 📖
 
 1. Clone the repository:
 
@@ -55,7 +55,7 @@ Make sure you have the following installed:
     ```bash
    npm install
 
-## Usage
+## Usage 🪴
 - 1.Run the application:
 
    ```bash 
@@ -63,10 +63,10 @@ Make sure you have the following installed:
 
 - 2. Open your browser and visit http://localhost:3000 to use the application.
 
-## Database
+## Database 📅
 - The project uses an SQLite database. The database schema is defined in the database.sql file.
 
-## Admin Login
+## Admin Login ✍️
 - To access admin features, use the following credentials:
 
 `` Username: admin``
@@ -74,14 +74,14 @@ Make sure you have the following installed:
 ``Password: adminpassword``
 - For security reasons, replace these credentials with a more secure authentication mechanism in a production environment.
 
-## Deployment
+## Deployment 🦾
 
 - The application is hosted on GitHub Pages. Visit Payroll Web App to access the live version.
 
-## Contributing
+## Contributing 🤝
 - Feel free to contribute to the project. Fork the repository, make your changes, and submit a pull request.
 
-## License
+## License 🫶
 - This project is licensed under the MIT License.
 
 

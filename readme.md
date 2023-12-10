@@ -47,16 +47,16 @@ Make sure you have the following installed:
 
 - 1.Navigate to the project folder:
 
-   `` cd payroll-app ``
+   ``` cd payroll-app ```
 
 - 2.Install dependencies:
 
-    ``npm install``
+    ```npm install```
 
 ## Usage
 - 1.Run the application:
 
-   ``npm start``
+   ```npm start```
 
 - 2. Open your browser and visit http://localhost:3000 to use the application.
 
